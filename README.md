@@ -11,9 +11,14 @@ The project combines Python-based data preparation with interactive Power BI das
 - Public sources: Wikipedia, Sports-Reference, LA Times
 
 ## Tools
-- Python
-- Power BI
+- Python (pandas)
+- Power BI (DAX)
 - GitHub
+
+- ## Contents
+- **PDF report** – static overview for quick review
+- **Power BI (.pbix)** – interactive dashboard
+- **Python notebook** – data preparation and feature engineering
 
 ## Key Analytical Questions
 - Which countries dominate Winter Olympics historically?
@@ -28,3 +33,5 @@ The project combines Python-based data preparation with interactive Power BI das
 
 ## Author
 Vlado L.
+
+*** This project was created as part of a data visualization assignment using publicly available data. ***
